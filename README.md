@@ -1,3 +1,6 @@
-# README.md for running Customer Application 
+# README.md 
 
-## Subtitle
+## Customer Server
+
+### uses SSMS for database.
+
